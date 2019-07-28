@@ -1,0 +1,18 @@
+package day11;
+
+public class TestString {
+	public static void main(String[] args) {
+		
+		String str = "helloworld!";
+//		str = str.substring(5,10);//范围包前不包后
+		str = str.substring(0,5);
+		System.out.println(str);
+		
+		
+
+		
+	}
+
+
+
+}

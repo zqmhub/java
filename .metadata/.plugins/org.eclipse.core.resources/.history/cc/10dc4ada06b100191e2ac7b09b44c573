@@ -1,0 +1,19 @@
+package day09;
+
+public class Test1 {
+	static int aint;
+	static double adouble;
+	static float afloat;
+
+	public static void main(String[] args) {
+		System.out.println(aint);
+		System.out.println(adouble);
+
+		if (aint == adouble) {
+			System.out.println("aint=adouble");
+		} else {
+			System.out.println("aint!=adouble");
+		}
+	}
+
+}

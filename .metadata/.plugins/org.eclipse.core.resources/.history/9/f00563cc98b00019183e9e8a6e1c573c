@@ -1,0 +1,11 @@
+package javaPro;
+
+public class TestChar {
+
+	public static void main(String[] args) {
+		char char1= 99;
+		char char2=char1+1;
+		System.out.println("char1="+char1);
+		System.out.println("char2="+char2);
+	}
+}

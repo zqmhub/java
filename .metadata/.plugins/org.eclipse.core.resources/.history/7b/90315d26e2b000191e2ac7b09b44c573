@@ -1,0 +1,10 @@
+package javaPro;
+
+public class TestConstant {
+	public static void main(String[] args) {
+		final int APPLE_PRICE;
+		int weightOfApple;
+		
+		int money;
+	}
+}

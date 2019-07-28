@@ -1,0 +1,11 @@
+package day09;
+
+public class Test1 {
+	static int aint;
+	static double adouble;
+	
+	public static void main(String[] args) {
+		System.out.println(aint);
+	}
+
+}

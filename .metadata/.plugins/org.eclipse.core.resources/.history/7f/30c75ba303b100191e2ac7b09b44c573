@@ -1,0 +1,17 @@
+package day09;
+
+public class Test {
+	
+	public static void main(String[] args) {
+		int speed,salary;
+		float time,basisSalary,prize,distance;
+		char alphabet;
+		
+		alphabet =  'a';
+		basisSalary = 3095.5F;
+		prize = 2334.55F;
+		speed = 30;
+		time = 3.4F;
+	}
+
+}

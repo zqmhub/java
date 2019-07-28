@@ -1,0 +1,11 @@
+package day11;
+
+public class TestString {
+	public static void main(String[] args) {
+		
+		String str = "helloworld!";
+		str = str.substring(5);
+		System.out.println(str);
+	}
+
+}
